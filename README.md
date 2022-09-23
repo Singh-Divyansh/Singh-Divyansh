@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Singh-Divyansh
+- 👋 Hi, I’m Divyansh Singh Bisen
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning web development
 - 📫 How to reach me- linkedin.com/in/singhdivyansh08
