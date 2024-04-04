@@ -2,7 +2,7 @@
 <body align="center">
 - 👋 Hi, I’m Divyansh Singh Bisen<br>
   
-- 👀 I’m interested in web and app development<br>
+- 👀 I’m interested in web development<br>
   
 - 🌱 I’m currently learning web development<br>
   
